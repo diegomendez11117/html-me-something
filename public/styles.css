@@ -202,6 +202,13 @@ blockquote {
     right: 0;
 }
 
+.footer {
+    background: #3f51b5;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
 @media screen and (max-width: 768px) {
     .timeline::before {
         left: 50px;
